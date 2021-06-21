@@ -1,9 +1,9 @@
 package server
 
 import (
-	v1 "hellokratos/api/helloworld/v1"
-	"hellokratos/internal/conf"
-	"hellokratos/internal/service"
+	v1 "helloworld/api/helloworld/v1"
+	"helloworld/internal/conf"
+	"helloworld/internal/service"
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/go-kratos/kratos/v2/middleware/logging"
 	"github.com/go-kratos/kratos/v2/middleware/metrics"

@@ -5,11 +5,11 @@
 package main
 
 import (
-	"hellokratos/internal/biz"
-	"hellokratos/internal/conf"
-	"hellokratos/internal/data"
-	"hellokratos/internal/server"
-	"hellokratos/internal/service"
+	"helloworld/internal/biz"
+	"helloworld/internal/conf"
+	"helloworld/internal/data"
+	"helloworld/internal/server"
+	"helloworld/internal/service"
 	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/google/wire"
